@@ -2,7 +2,7 @@ from util import *
 from collections import *
 import copy
 
-day = 1
+day = 'REPLACE_ME'
 
 
 def task1():
