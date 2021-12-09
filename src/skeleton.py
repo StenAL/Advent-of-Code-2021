@@ -1,6 +1,7 @@
 from util import *
 from collections import *
 import copy
+from functools import reduce
 
 day = 'REPLACE_ME'
 
