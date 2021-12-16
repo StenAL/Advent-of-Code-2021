@@ -2,6 +2,7 @@ from util import *
 from collections import *
 import copy
 from functools import reduce
+from math import prod
 
 day = 'REPLACE_ME'
 
